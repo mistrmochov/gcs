@@ -1,0 +1,9 @@
+#!/usr/local/bin/bash
+cmd=""
+target=""
+source=""
+base="gs://mistrmochov"
+if ! [ -z "$1" && -z "$2" && -z "$3" ]; then
+    
+else
+fi
